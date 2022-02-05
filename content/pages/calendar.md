@@ -4,30 +4,395 @@ title: Calendar
 uid: df93b3d3-5c0e-2179-e7c0-1593cba63d85
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction to the Class as a Writing Community; Why Write About Social and Ethical Issues? {{< br >}}{{< br >}}  | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Reasons to Believe: The Rhetoric of Classic American Political Speeches: Utopian and Dystopian Themes {{< br >}}{{< br >}} Peer Review Training. Sample Student Essay-in-progress: ["Not Saturday's Child" (PDF)]({{< baseurl >}}/resources/mit21w_011f15_not_sat) {{< br >}}{{< br >}}  | Course information sheet due. |
-| 3 |  {{< br >}}{{< br >}} The Emergence of Social and Ethical Values {{< br >}}{{< br >}} Peer Review: Exercise 1 {{< br >}}{{< br >}}  | First version of Essay 1 due before the next lecture by email. |
-| 4 | Workshop: Essay 1 | Letters to workshop students due in class. |
-| 5 | Representing Social Issues in Historical Context: Poverty and Wealth in the Industrial Era |  {{< br >}}{{< br >}} Utopia writing exercise due. {{< br >}}{{< br >}} Essay 2 assigned. {{< br >}}{{< br >}} Oral presentation preferences due by email before the next class. {{< br >}}{{< br >}}  |
-| 6 | Documenting Social Issues: Poverty in the Industrial Era | &nbsp; |
-| 7 | Writers Engage with Contemporary Social Issues: Homelessness: Contrasting Perspectives | Proposal for Essay 2 (first version) due by email before the next class. |
-| 8 |  {{< br >}}{{< br >}} Library Session in the [Digital Instruction Resource Center](http://libraries.mit.edu/dirc/) {{< br >}}{{< br >}} *   [MIT Library Guide](http://libguides.mit.edu/21w011) {{< br >}}{{< br >}} Peer Review of Essay 2 Proposals {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Low Wage Jobs: Pathways Out of Poverty? {{< br >}}{{< br >}} Peer Review of Essay 2 Proposals {{< br >}}{{< br >}}  | Revision of Essay 1 due by email before the next class. |
-| 10 | Low Wage Jobs: Pathways Out of Poverty? (cont.) | Revised Proposal of Essay 2 due by email before the next class. |
-| 11 | Living in an Aging Society: Benefits and Challenges | &nbsp; |
-| 12 | Writers Engage with Contemporary Issues: The Politics of Food | Outline of Essay 2 and History / Background Sections due by email before the next class. |
-| 13 | Writers Engage with Contemporary Issues: The Politics of Food (cont.) | &nbsp; |
-| 14 | Writers Explore Contemporary Issues: Mental Health and Illness | First version of Essay 2 due by email before the next class. |
-| 15 | Writers Explore Contemporary Issues: Mental Health and Illness (cont.) | &nbsp; |
-| 16 | Workshop: Essay 2 | &nbsp; |
-| 17 | Living in the Age of Mass Media: The Influence of Advertising | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Creating Childhood Consumers: Youth and Advertising {{< br >}}{{< br >}} Introduction to Grant Proposal Writing: Identifying Needs; Designing Programs {{< br >}}{{< br >}}  | Assignment 3 (Grant Proposal) assigned |
-| 19 |  {{< br >}}{{< br >}} Grant Proposal Writing (cont.) {{< br >}}{{< br >}} Peer Review Proposal Ideas {{< br >}}{{< br >}}  | Proposal idea for a public service project due. |
-| 20 |  {{< br >}}{{< br >}} Grant Proposal Writing (cont.) {{< br >}}{{< br >}} Review Sample Student Grants {{< br >}}{{< br >}}  | Revised Essay 2 due by email before the next class. |
-| 21 |  {{< br >}}{{< br >}} Grant Proposal Writing (cont.): Budgets, Evaluation Plans and Abstracts {{< br >}}{{< br >}} The Pitch: Oral Presentations on Grant Ideas {{< br >}}{{< br >}}  | &nbsp; |
-| 22 | Workshop: Assignment 3 | First version of Assignment 3 due. |
-| 23 |  {{< br >}}{{< br >}} The Pitch: Oral Presentations {{< br >}}{{< br >}} Overview of the Grant Proposal Revision Process {{< br >}}{{< br >}}  | &nbsp; |
-| 24 | The Pitch: Oral Presentations (cont.) | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} The Pitch: Oral Presentations {{< br >}}{{< br >}} Course Overview and Evaluations {{< br >}}{{< br >}}  | Revised Assignment 3 and final reflection letter due.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to the Class as a Writing Community; Why Write About Social and Ethical Issues?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reasons to Believe: The Rhetoric of Classic American Political Speeches: Utopian and Dystopian Themes
+
+Peer Review Training. Sample Student Essay-in-progress: ["Not Saturday's Child" (PDF)]({{< baseurl >}}/resources/mit21w_011f15_not_sat)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Course information sheet due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Emergence of Social and Ethical Values
+
+Peer Review: Exercise 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First version of Essay 1 due before the next lecture by email.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+Letters to workshop students due in class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Representing Social Issues in Historical Context: Poverty and Wealth in the Industrial Era
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Utopia writing exercise due.
+
+Essay 2 assigned.
+
+Oral presentation preferences due by email before the next class.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Documenting Social Issues: Poverty in the Industrial Era
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Writers Engage with Contemporary Social Issues: Homelessness: Contrasting Perspectives
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal for Essay 2 (first version) due by email before the next class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Library Session in the [Digital Instruction Resource Center](http://libraries.mit.edu/dirc/)
+
+*   [MIT Library Guide](http://libguides.mit.edu/21w011)
+
+Peer Review of Essay 2 Proposals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Low Wage Jobs: Pathways Out of Poverty?
+
+Peer Review of Essay 2 Proposals
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Revision of Essay 1 due by email before the next class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Low Wage Jobs: Pathways Out of Poverty? (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Revised Proposal of Essay 2 due by email before the next class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Living in an Aging Society: Benefits and Challenges
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Writers Engage with Contemporary Issues: The Politics of Food
+{{< tdclose >}}
+{{< tdopen >}}
+Outline of Essay 2 and History / Background Sections due by email before the next class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Writers Engage with Contemporary Issues: The Politics of Food (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Writers Explore Contemporary Issues: Mental Health and Illness
+{{< tdclose >}}
+{{< tdopen >}}
+First version of Essay 2 due by email before the next class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Writers Explore Contemporary Issues: Mental Health and Illness (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Living in the Age of Mass Media: The Influence of Advertising
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Creating Childhood Consumers: Youth and Advertising
+
+Introduction to Grant Proposal Writing: Identifying Needs; Designing Programs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 (Grant Proposal) assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Grant Proposal Writing (cont.)
+
+Peer Review Proposal Ideas
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal idea for a public service project due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Grant Proposal Writing (cont.)
+
+Review Sample Student Grants
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Revised Essay 2 due by email before the next class.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Grant Proposal Writing (cont.): Budgets, Evaluation Plans and Abstracts
+
+The Pitch: Oral Presentations on Grant Ideas
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Workshop: Assignment 3
+{{< tdclose >}}
+{{< tdopen >}}
+First version of Assignment 3 due.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Pitch: Oral Presentations
+
+Overview of the Grant Proposal Revision Process
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+The Pitch: Oral Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Pitch: Oral Presentations
+
+Course Overview and Evaluations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Revised Assignment 3 and final reflection letter due.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

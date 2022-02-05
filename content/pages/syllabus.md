@@ -43,11 +43,64 @@ Various essays and articles are listed in the [Calendar]({{< baseurl >}}/pages/c
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Major Writing Assignments {{< br >}}{{< br >}} *   Essay 1{{< br >}}*   Essay 2{{< br >}}*   Assignment 3 (Grant Proposal) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 75% {{< br >}}{{< br >}} *   15%{{< br >}}*   35%{{< br >}}*   25% {{< br >}}{{< br >}}  |
-| Homework Assignments | 10% |
-| Attendance, Preparation for Class, Participation, and Oral Presentation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Major Writing Assignments
+
+*   Essay 1
+*   Essay 2
+*   Assignment 3 (Grant Proposal)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+75%
+
+*   15%
+*   35%
+*   25%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, Preparation for Class, Participation, and Oral Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Publishing Your Work
 --------------------
