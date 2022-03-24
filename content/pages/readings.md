@@ -160,7 +160,7 @@ Representing Social Issues in Historical Context: Poverty and Wealth in the Indu
 
 Dickens, Charles. "[Stave 1: Marley's Ghost](http://www.stormfax.com/1dickens.htm)." In _A Christmas Carol_. 1843.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Carnegie, Andrew. ["Wealth." (PDF)]({{< baseurl >}}/resources/mit21w_011f15_carnegie) _The North American Review_ (1889): 653–64.
+Carnegie, Andrew. ["Wealth." (PDF)]({{< baseurl >}}/resources/mit21w_011f15_carnegie) _The North American Review_ (1889): 653–64.
 
 Goldstein, Jacob. "[Is It Nuts to Give to the Poor Without Strings Attached?](http://www.nytimes.com/2013/08/18/magazine/is-it-nuts-to-give-to-the-poor-without-strings-attached.html?_r=1)" _The New York Times Magazine_. August 13, 2013.
 
@@ -470,7 +470,7 @@ Living in the Age of Mass Media: The Influence of Advertising
 {{< tdopen >}}
 
 
-Jhally, Sut. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Image-based Culture." (PDF)](http://sites.psu.edu/comm292/wp-content/uploads/sites/5180/2014/08/Jhally-Image_Based_Culture_Excerpt.pdf) _Gender, race, and class in media: A Text-reader_. Sage, 1995.
+Jhally, Sut. ["Image-based Culture." (PDF)](http://sites.psu.edu/comm292/wp-content/uploads/sites/5180/2014/08/Jhally-Image_Based_Culture_Excerpt.pdf) _Gender, race, and class in media: A Text-reader_. Sage, 1995.
 
 Kilbourne, Jean. "[Beauty…and the Beast of Advertising](http://www.medialit.org/reading-room/beautyand-beast-advertising)." _Media & Values_ 49 (1990).
 
