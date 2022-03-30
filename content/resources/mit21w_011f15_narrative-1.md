@@ -4,6 +4,7 @@ description: This resource contains the information regarding the use of outside
   in narrative essays.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/e3c245584f02455b6024edfe52cce0c8_MIT21W_011F15_Narrative.pdf
 file_type: application/pdf
+parent_uid: 02c7f260-bda3-4b68-998b-f23593a1651d
 resourcetype: Document
 title: 'Writing and Rhetoric: Rhetoric and Contemporary Issues: The Use of Outside
   Sources in Narrative Essays'
